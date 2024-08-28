@@ -19,7 +19,7 @@ jobs:
           cat > idoc.yml << EOF
           site: "Web Serve"
           description: Web Serve is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases
-          keywords: Local Static Server,Application,Quick Setup,Server Management,Front-End Development,Real-Time Preview,File Transfer,Data Backup,IoT Devices,Offline Access,Development Efficiency,Cross-Origin Requests,Static Website,Local Sharing,Document Hosting
+          keywords: Local Static Server,serve,http-server,Application,Quick Setup,Server Management,Front-End Development,Real-Time Preview,File Transfer,Data Backup,IoT Devices,Offline Access,Development Efficiency,Cross-Origin Requests,Static Website,Local Sharing,Document Hosting
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/web-serve
