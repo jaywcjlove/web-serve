@@ -19,11 +19,11 @@ jobs:
           cat > idoc.yml << EOF
           site: "Web Serve"
           description: Web Serve is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases
-          keywords: 本地静态服务器,应用程序,快速搭建,管理服务器,前端开发,实时预览,文件传输,数据备份,物联网设备,离线访问,开发效率,跨域请求,静态网站,本地分享,文档托管
+          keywords: Local Static Server,Application,Quick Setup,Server Management,Front-End Development,Real-Time Preview,File Transfer,Data Backup,IoT Devices,Offline Access,Development Efficiency,Cross-Origin Requests,Static Website,Local Sharing,Document Hosting
           favicon: assets/logo.png
           logo: ./assets/logo.png
-          openSource: https://github.com/jaywcjlove/copybook-generator
-          homepage: https://wangchujiang.com/copybook-generator/
+          openSource: https://github.com/jaywcjlove/web-serve
+          homepage: https://wangchujiang.com/web-serve/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
