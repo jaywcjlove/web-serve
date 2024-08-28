@@ -1,14 +1,14 @@
 <div align="center">
-	<br />
-	<br />
+  <br />
+  <br />
   <a href="https://wangchujiang.com/web-serve/">
-	<img src="./assets/logo.png" alt="Web Serve LOGO" width="160" height="160">
+  <img src="./assets/logo.png" alt="Web Serve LOGO" width="160" height="160">
   </a>
-	<h1>Web Serve</h1>
+  <h1>Web Serve</h1>
   <!--rehype:style=border: 0;-->
   <p>
-		<a href="./README-zh.md">中文</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
+    <a href="./README-zh.md">中文</a> • 
+    <a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve AppStore"><img alt="Web Serve AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">

@@ -1,12 +1,12 @@
 <div align="center">
-	<br />
-	<br />
-	<img src="./assets/logo.png" alt="DevTutor LOGO" width="160" height="160">
-	<h1>Web Serve</h1>
+  <br />
+  <br />
+  <img src="./assets/logo.png" alt="DevTutor LOGO" width="160" height="160">
+  <h1>Web Serve</h1>
   <!--rehype:style=border: 0;-->
   <p>
-		<a href="./README.md">English</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
+    <a href="./README.md">English</a> • 
+    <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve AppStore"><img alt="Web Serve AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
