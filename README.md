@@ -39,5 +39,5 @@ For users who need offline access to resources, "Web Serve" can host local PDFs,
 <!--idoc:config:
 site: Web Serve
 title: Web Serve is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases - 
-keywords: Local Static Server,Application,Quick Setup,Server Management,Front-End Development,Real-Time Preview,File Transfer,Data Backup,IoT Devices,Offline Access,Development Efficiency,Cross-Origin Requests,Static Website,Local Sharing,Document Hosting
+keywords: Local Static Server,serve,http-server,Application,Quick Setup,Server Management,Front-End Development,Real-Time Preview,File Transfer,Data Backup,IoT Devices,Offline Access,Development Efficiency,Cross-Origin Requests,Static Website,Local Sharing,Document Hosting
 -->
