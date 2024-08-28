@@ -32,6 +32,8 @@ With "Web Serve," you can easily set up a local static server, allowing you to v
 
 File transfer and backup are another highlight of "Web Serve." With the help of a local static server, you can easily transfer files between devices within the same local network, which is especially useful when direct connection between devices is not possible. Moreover, as a practical backup tool, you can store important files in specific directories and access and manage them via the static server, ensuring the safety and availability of your data.
 
+![Web Serve Screenshot 3](./assets/screenshots-3-cn.png)
+
 For IoT device users, "Web Serve" can serve as a file server for hosting firmware, configuration files, or logs, allowing devices to access and update these files within the local network. Additionally, this application supports data collection, enabling you to store data from multiple IoT devices locally for further analysis.
 
 For users who need offline access to resources, "Web Serve" can host local PDFs, eBooks, video tutorials, and other materials, allowing you to access them anytime, anywhere through the local server, particularly in environments without internet connectivity.
