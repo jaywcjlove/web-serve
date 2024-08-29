@@ -26,7 +26,7 @@ minimum OS requirement: `macOS 14.0`
 
 ![Web Serve Screenshot 1](./assets/screenshots-1-cn.png)
 
-With "Web Serve," you can easily set up a local static server, allowing you to view, modify, and share static website content locally at any time. Whether it's personal project documentation or collaborative team documents, they can be accessed anytime via the local static server. For front-end developers, this application supports hosting front-end development files, enabling real-time previews and debugging, greatly enhancing development efficiency. Additionally, it supports simulating different domains, helping you effortlessly solve cross-origin request issues and other development challenges.
+With "Web Serve" you can easily set up a local static server, allowing you to view, modify, and share static website content locally at any time. Whether it's personal project documentation or collaborative team documents, they can be accessed anytime via the local static server. For front-end developers, this application supports hosting front-end development files, enabling real-time previews and debugging, greatly enhancing development efficiency. Additionally, it supports simulating different domains, helping you effortlessly solve cross-origin request issues and other development challenges.
 
 ![Web Serve Screenshot 2](./assets/screenshots-2-cn.png)
 
