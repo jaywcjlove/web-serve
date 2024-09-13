@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="52" alt="Web Serve" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c> **"Web Serve"** is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases. 
+        <img align="right" height="52" alt="Web Serve" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c" /> **"Web Serve"** is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases. 
         
         Whether you are a developer, designer, content creator, or a regular user, this application can bring you significant convenience and efficiency.
 
