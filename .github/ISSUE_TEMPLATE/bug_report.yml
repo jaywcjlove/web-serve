@@ -6,7 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="52" alt="Web Serve" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"> A tool that can convert any SVG icon into a [custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
+        <img align="right" height="52" alt="Web Serve" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c> **"Web Serve"** is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases. 
+        
+        Whether you are a developer, designer, content creator, or a regular user, this application can bring you significant convenience and efficiency.
 
   - type: textarea
     attributes:
