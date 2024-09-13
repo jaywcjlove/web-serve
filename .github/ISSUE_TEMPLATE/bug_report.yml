@@ -1,0 +1,43 @@
+name: 🙋‍♂️ [Web Serve] - Support & Feedback
+description: Use this template to ask for support or provide feedback.
+title: '🙋‍♂️ Support & Feedback: Web Serve'
+labels: ['support', 'feedback', 'question']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <img align="right" height="52" alt="Web Serve" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"> A tool that can convert any SVG icon into a [custom SF symbol](https://developer.apple.com/documentation/uikit/uiimage/creating_custom_symbol_images_for_your_app). Your customized SF symbol can be imported into Xcode and utilized in any project based on UIKit or SwiftUI.
+
+  - type: textarea
+    attributes:
+      label: 🙋‍♂️ What do you need help with?
+      description: Describe the issue you are facing or the feature you would like to request.
+      placeholder: ex. I'm having trouble with...
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: "💻 Desktop"
+      description: Your operating system and version.
+      placeholder: ex. `macOS 14.0.1`
+
+  - type: markdown
+    attributes:
+      value: |
+        **How can I send you a crash report for one of your apps?**
+
+        - macOS Open Finder
+        - Select Go to **Folder…** from the Go menu
+        - Enter: **~/Library/Logs/DiagnosticReports**
+        - In the resulting list, select all files that starts with the app name, ZIP them, and send me
+        - Attach the file to this issue
+
+
+  - type: textarea
+    attributes:
+      label: ℹ️ Additional context
+      description: Add any other context about the problem here.
+      placeholder: ex. Screenshots, steps to reproduce, etc.
+    validations:
+      required: false
