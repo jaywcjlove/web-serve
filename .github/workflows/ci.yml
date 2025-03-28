@@ -14,10 +14,31 @@ jobs:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
 
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
+      - name: Create Released Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS">
+            <img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
+
+
+      - name: Get latest tag
+        id: get_latest_tag
+        run: echo "LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))" >> $GITHUB_ENV
+
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "Web Serve"
+          site: "Web Serve {{version:${{ steps.create_tag.outputs.version }}}}"
           description: Web Serve is a simple and easy-to-use application designed for quickly setting up and managing local static servers, suitable for a variety of use cases
           keywords: Local Static Server,serve,http-server,Application,Quick Setup,Server Management,Front-End Development,Real-Time Preview,File Transfer,Data Backup,IoT Devices,Offline Access,Development Efficiency,Cross-Origin Requests,Static Website,Local Sharing,Document Hosting
           favicon: assets/logo.png

@@ -8,7 +8,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/web-serve/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Web+Serve">Contact & Support</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/web-serve/issues/new?template=bug_report.yml">Contact & Support</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
