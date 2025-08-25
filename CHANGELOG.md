@@ -4,6 +4,14 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/web-serve/releases/tag/v1.5.1)
+
+1. fix: resolve multiple window issue
+
+---
+
+1. 修复: 修复窗口多开问题.
+
 ## [v1.5.0](https://github.com/jaywcjlove/web-serve/releases/tag/v1.5.0)
 
 1. feat: add empty list placeholder message
