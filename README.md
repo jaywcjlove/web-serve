@@ -8,7 +8,8 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/web-serve/issues/new?template=bug_report.yml">Contact & Support</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/web-serve/issues/new?template=bug_report.yml">Contact & Support</a> • 
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">

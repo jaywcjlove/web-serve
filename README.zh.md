@@ -6,7 +6,8 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/web-serve/issues/new?template=bug_report_cn.yml">联系&支持</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/web-serve/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
+    <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
