@@ -9,6 +9,11 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.0.0)
+
+1. feat: 添加对 macOS 26 的支持。
+2. fix: 修复国际化问题。
+
 ## [v1.5.2](https://github.com/jaywcjlove/web-serve/releases/tag/v1.5.2)
 
 1. 修复：优化设置界面滚动条显示问题。
