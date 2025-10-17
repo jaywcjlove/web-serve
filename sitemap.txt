@@ -1,8 +1,8 @@
 https://wangchujiang.com/web-serve/index.html
 https://wangchujiang.com/web-serve/index.zh.html
 https://wangchujiang.com/web-serve/CHANGELOG.html
-https://wangchujiang.com/web-serve/CHANGELOG.zh.html
 https://wangchujiang.com/web-serve/feedback.html
+https://wangchujiang.com/web-serve/CHANGELOG.zh.html
 https://wangchujiang.com/web-serve/feedback.zh.html
 https://wangchujiang.com/web-serve/terms-of-service.html
 https://wangchujiang.com/web-serve/terms-of-service.zh.html
