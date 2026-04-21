@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Extract version from tag
         id: extract_version
@@ -25,6 +25,6 @@ jobs:
           version: ${{ env.VERSION }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve AppStore">
+            <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve AppStore">
             <img alt="Web Serve AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
             </a>

@@ -8,11 +8,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
-          registry-url: 'https://registry.npmjs.org'
+          node-version: 24
 
       - name: Create Tag
         id: create_tag
@@ -26,7 +25,7 @@ jobs:
           version: ${{ steps.create_tag.outputs.version }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS">
+            <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS">
             <img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
 
