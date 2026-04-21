@@ -6,7 +6,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
 ## [v2.0.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.0.0)

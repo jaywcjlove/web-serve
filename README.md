@@ -12,7 +12,7 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/web-serve/id6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
 </div>
