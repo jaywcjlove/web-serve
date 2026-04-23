@@ -9,6 +9,12 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.1.0)
+
+1. feat: 新增“在访达中打开”选项。
+2. feat: 优化列表界面。
+3. perf: 提升详情页性能。
+
 ## [v2.0.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.0.0)
 
 1. feat: 添加对 macOS 26 的支持。
