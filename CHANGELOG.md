@@ -9,12 +9,18 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.3.0)
+
+1. feat: polish certificate trust and settings flows 
+2. feat: improve local HTTPS certificate trust workflow 
+3. fix: resolve SSL certificate configuration issue. 
+
 ## [v2.2.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.2.0)
 
-1. feat: 新增德语、法语、日语、韩语和繁体中文支持
-2. chore: 优化工具栏并改进本地化调用
-3. fix: 修复服务切换时的 StateObject 警告
-4. refactor: 优化订阅流程并重构应用资源结构
+1. feat: add German, French, Japanese, Korean, and Traditional Chinese support
+2. chore: refine toolbar and optimize localization calls
+3. fix: resolve StateObject warning during service toggle
+4. refactor: refine subscription flow and reorganize app resources
 
 ## [v2.1.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.1.0)
 
