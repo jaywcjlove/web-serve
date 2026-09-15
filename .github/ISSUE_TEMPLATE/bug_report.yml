@@ -12,17 +12,25 @@ body:
 
   - type: textarea
     attributes:
-      label: 🙋‍♂️ What do you need help with?
-      description: Describe the issue you are facing or the feature you would like to request.
-      placeholder: ex. I'm having trouble with...
+      label: 🙋‍♂️ How can we help you?
+      description: Describe the issue you're facing or the feature you'd like to request.
+      placeholder: For example, I'm experiencing an issue with...
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
+    id: os_version
     attributes:
       label: "💻 Desktop"
       description: Your operating system and version.
-      placeholder: ex. `macOS 14.0.1`
+      options:
+        - macOS 27.x (Golden Gate)
+        - macOS 26.x (Tahoe)
+        - macOS 15.x (Sequoia)
+        - macOS 14.x (Sonoma)
+      default: 0
+    validations:
+      required: true
 
   - type: markdown
     attributes:
@@ -30,16 +38,15 @@ body:
         **How can I send you a crash report for one of your apps?**
 
         - macOS Open Finder
-        - Select Go to **Folder…** from the Go menu. <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>G</kbd>
+        - Select Go to **Folder…** from the Go menu <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>G</kbd>
         - Enter: **~/Library/Logs/DiagnosticReports**
         - In the resulting list, select all files that starts with the app name, ZIP them, and send me
         - Attach the file to this issue
 
-
   - type: textarea
     attributes:
       label: ℹ️ Additional context
-      description: Add any other context about the problem here.
+      description: Add any additional information that could be helpful.
       placeholder: ex. Screenshots, steps to reproduce, etc.
     validations:
       required: false

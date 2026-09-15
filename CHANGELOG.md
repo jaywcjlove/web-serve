@@ -9,6 +9,12 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.4.0)
+
+1. feat: Update App icon.
+2. fix: fix permission authorization display issue on macOS 27.
+3. i18n: add it/ru/vi language.
+
 ## [v2.3.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.3.0)
 
 1. feat: polish certificate trust and settings flows 

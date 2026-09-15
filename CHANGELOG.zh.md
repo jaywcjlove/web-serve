@@ -9,6 +9,12 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670167443" title="Web Serve for macOS"><img alt="Web Serve for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.4.0)
+
+1. feat: 更新应用图标
+2. fix: 修复 macOS 27 上权限授权展示问题
+3. i18n: 添加意大利语、俄语、越南语翻译
+
 ## [v2.3.0](https://github.com/jaywcjlove/web-serve/releases/tag/v2.3.0)
 
 1. feat: 优化证书信任与设置流程

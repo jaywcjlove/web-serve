@@ -9,7 +9,7 @@ body:
         <img align="right" height="100" alt="Web Serve" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c" /> 「Web Serve」是一款简单易用的应用，专为快速搭建和管理本地静态服务器而设计，适用于各种使用场景。
         
         无论你是开发者、设计师、内容创作者，还是普通用户，这款应用都能为你带来极大的便利和效率提升。
-
+  
   - type: textarea
     attributes:
       label: 🙋‍♂️ 您需要什么帮助？
@@ -18,11 +18,19 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
+    id: os_version
     attributes:
       label: "💻 桌面"
       description: 您的操作系统和版本。
-      placeholder: 例如，`macOS 14.0.1`
+      options:
+        - macOS 27.x (Golden Gate)
+        - macOS 26.x (Tahoe)
+        - macOS 15.x (Sequoia)
+        - macOS 14.x (Sonoma)
+      default: 0
+    validations:
+      required: true
 
   - type: markdown
     attributes:
